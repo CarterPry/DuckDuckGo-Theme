@@ -1,2 +1,2 @@
-# DuckDuckGo-Theme
-Just my personal DuckDuckGo Theme to put into the console
+# DuckDuckGo Theme
+Based on the Dracula theme but with some changes to the title, link, and hovering color. 
