@@ -1,5 +1,5 @@
 // Cookies string for your theme
-const cookie = 'o=s; p=-2; ad=en_US; 1=-1; aq=-1; l=wt-wt; 7=282a36; j=282a36; aa=bd93f9; 9=e5e5e5; 21=282a36; x=888882; av=1; ak=-1; ax=-1; ap=-1; au=-1; s=s; 8=cdcdcd';
+const cookie = 'o=s; p=-2; ad=en_US; 1=-1; aq=-1; l=wt-wt; av=1; ak=-1; ax=-1; ap=-1; au=-1; s=s; ae=1e1e2e; 7=282a36; 8=cdcdcd; 9=e5e5e5; j=282a36; aa=bd93f9; x=888882; 21=272936';
 
 // Converts cookie string into formatted JSON
 const cookieToJSON = (cookieRaw) => {
