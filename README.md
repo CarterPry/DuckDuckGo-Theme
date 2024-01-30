@@ -34,5 +34,5 @@ You can try out this DuckDuckGo theme [here](https://duckduckgo.com/?ko=s&kp=-2&
 }
 ```
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F00%2FDuckDuckGo_Logo-_Horizontal%25404x.png%2Frevision%2Flatest%3Fcb%3D20190826133259&f=1&nofb=1&ipt=eef370cc8eb916357a709693a0504d93cb79d94a2c075e288dda9e5eec0f0809&ipo=images" alt="Advent of Code" width="250" height="400" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F00%2FDuckDuckGo_Logo-_Horizontal%25404x.png%2Frevision%2Flatest%3Fcb%3D20190826133259&f=1&nofb=1&ipt=eef370cc8eb916357a709693a0504d93cb79d94a2c075e288dda9e5eec0f0809&ipo=images" alt="Advent of Code" width="800" height="400" />
 </p>
