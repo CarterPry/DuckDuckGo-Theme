@@ -4,6 +4,7 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F00%2FDuckDuckGo_Logo-_Horizontal%25404x.png%2Frevision%2Flatest%3Fcb%3D20190826133259&f=1&nofb=1&ipt=eef370cc8eb916357a709693a0504d93cb79d94a2c075e288dda9e5eec0f0809&ipo=images" alt="DuckDuckGo Logo" width="750" height="300" />
   </a>
 </p>
+
 This theme is inspired by [Dracula](https://github.com/dracula/duckduckgo?tab=readme-ov-file), with modifications to the title, link, and hovering color.
 
 ### Preview
