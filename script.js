@@ -21,7 +21,7 @@ const setCookies = (cookieJson) => {
   });
 };
 
-alert('The Ayu Dark theme will be applied.');
+alert("Carter Pry's personal theme will be applied.");
 
 // Call set cookies, passing in formated cookie data
 setCookies(cookieToJSON(cookie));
