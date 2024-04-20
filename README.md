@@ -11,7 +11,7 @@ This theme is inspired by [Dracula](https://github.com/dracula/duckduckgo?tab=re
 You can try out this DuckDuckGo theme [here](https://duckduckgo.com/?ko=s&kp=-2&kad=en_US&k1=-1&kaq=-1&kl=wt-wt&k7=282a36&k8=cdcdcd&kj=282a36&kaa=bd93f9&k9=e5e5e5&k21=282a36&kx=888882&kav=1&kak=-1&kax=-1&kap=-1&kau=-1&ks=s)
 
 ### How to Apply
-You can copy the script.js and follow the directions found [here](https://ddg.codingcodax.dev/#howToUse)
+You can copy the script.js and follow the directions found [here](https://ddg.codingcodax.dev/#howToUse). You go to your DuckDuckGo theme settings, open the console (insepct element then console), and just copy [script.js](https://github.com/CarterPry/DuckDuckGo-Theme/blob/main/script.js) and paste it there. You'll get a message saying my theme is applied and all done.
 
 ### Cookie Data
 ```
